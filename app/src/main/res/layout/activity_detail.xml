@@ -14,7 +14,6 @@
         android:fitsSystemWindows="false">
 
         <com.google.android.material.appbar.CollapsingToolbarLayout
-            android:id="@+id/collapsing_toolbar"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:fitsSystemWindows="true"
@@ -22,7 +21,7 @@
             app:layout_scrollFlags="scroll|snap|exitUntilCollapsed">
 
             <ImageView
-                android:id="@+id/poster_movie"
+                android:id="@+id/poster_Movie"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:adjustViewBounds="true"
@@ -32,7 +31,6 @@
                 tools:ignore="ContentDescription" />
 
             <androidx.appcompat.widget.Toolbar
-                android:id="@+id/mytoolbar"
                 android:layout_width="match_parent"
                 android:layout_height="150dp"
                 app:collapsedTitleGravity="center"
@@ -66,7 +64,6 @@
     </com.google.android.material.appbar.AppBarLayout>
 
     <androidx.core.widget.NestedScrollView
-        android:id="@+id/nested_scroll_view"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="-36dp"
