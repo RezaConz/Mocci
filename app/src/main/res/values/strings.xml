@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mocci</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_movie">Movie</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="added_to_favorite">added to favorite</string>
+    <string name="removed_from_favorite">removed from favorite</string>
+    <string name="title_dynamicfeature">favorite</string>
+    <string name="search_something">Search something</string>
+    <string name="overview">Overview</string>
+    <string name="title">Title</string>
+    <string name="opps_something_went_wrong">Opps .. Something went Wrong</string>
+</resources>

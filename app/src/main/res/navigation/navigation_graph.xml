@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--suppress ALL -->
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@+id/movie">
+
+    <fragment
+        android:id="@+id/movie"
+        android:name="com.example.mocci.home.HomeFragment"
+        android:label="@string/title_movie"
+        tools:layout="@layout/fragment_home">
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/favorite"
+        android:name="com.example.favorite.ui.FavoriteFragment"
+        android:label="Favorite" />
+
+</navigation>
