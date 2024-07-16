@@ -1,6 +1,11 @@
 [![Mocci](https://github.com/RezaConz/Mocci/actions/workflows/android-ci.yml/badge.svg?branch=master)](https://github.com/RezaConz/Mocci/actions/workflows/android-ci.yml)
 
 # Mocci (Movie Cinema)
+<p align="center">
+  <a href="https://github.com/RezaConz/Mocci">
+      <img src="https://raw.githubusercontent.com/RezaConz/Mocci/master/mocci.png" width='400dp' alt="Logo" >
+  </a>
+</p>
 
 ## Tech Stack
   - [Clean Architecture Guide](https://developer.android.com/jetpack/guide)
