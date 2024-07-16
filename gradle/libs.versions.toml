@@ -1,5 +1,6 @@
 [versions]
 agp = "8.5.0"
+hiltAndroidGradlePlugin = "2.48.1"
 kotlin = "1.9.0"
 coreKtx = "1.13.1"
 junit = "4.13.2"
@@ -27,8 +28,11 @@ leakCanary = "2.14"
 sqlite = "2.3.1"
 sqlchiper = "4.4.0"
 
+multidex = "2.0.1"
+
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
+hilt-android-gradle-plugin = { module = "com.google.dagger:hilt-android-gradle-plugin", version.ref = "hiltAndroidGradlePlugin" }
 junit = { group = "junit", name = "junit", version.ref = "junit" }
 androidx-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
 androidx-espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }
@@ -61,6 +65,7 @@ leakCanary-android = { group = "com.squareup.leakcanary", name = "leakcanary-and
 
 androidx-sqlite = { module = "androidx.sqlite:sqlite-ktx", version.ref = "sqlite" }
 sqlchiper = { module = "net.zetetic:android-database-sqlcipher", version.ref = "sqlchiper" }
+androidx-multidex = { group = "androidx.multidex", name = "multidex", version.ref = "multidex" }
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }

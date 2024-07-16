@@ -29,7 +29,6 @@ class DatabaseModule {
             .openHelperFactory(factory)
             .build()
     }
-
     @Provides
     fun provideMovieDao(database: MovieDatabase): MovieDao = database.movieDao()
 }
