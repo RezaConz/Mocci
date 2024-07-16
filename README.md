@@ -16,9 +16,8 @@
 
 
  ## Add to your project
-  
-      1. Get a free API Key at [Themoviedb](https://developers.themoviedb.org/3)
-      2. Clone this repository and import into Android Studio    
+   1. Get a free API Key at [Themoviedb](https://developers.themoviedb.org/3)
+   2. Clone this repository and import into Android Studio    
           ```
              https://github.com/RezaConz/Mocci.git
           ``` 
