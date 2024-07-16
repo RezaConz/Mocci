@@ -144,9 +144,9 @@
 
 -keep class com.example.core.di.DatabaseModule { *; }
 
--keep com.example.core.di.**
-
--keepnames com.example.core.di.**
+#-keep com.example.core.di.**
+#
+#-keepnames com.example.core.di.**
 
 # Keep Hilt components
 -keep class * implements dagger.hilt.internal.GeneratedComponent { *; }
