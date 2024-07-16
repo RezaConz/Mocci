@@ -1,7 +1,7 @@
 [![Mocci](https://github.com/RezaConz/Mocci/actions/workflows/android-ci.yml/badge.svg?branch=master)](https://github.com/RezaConz/Mocci/actions/workflows/android-ci.yml)
 
 
-## Acknowledgements
+## Tech Stack
   - [Clean Architecture Guide](https://developer.android.com/jetpack/guide)
   - [Reactive Programming Using Coroutines Flow](https://developer.android.com/kotlin/flow)
   - [Modularization](https://www.techyourchance.com/preliminary-over-modularization-of-android-projects)
