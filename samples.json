@@ -1,0 +1,1722 @@
+{
+    "samples": [
+        {
+            "id": "msg_001",
+            "timestamp": "2024-01-20T10:30:00Z",
+            "sender": {
+                "name": "Baptiste",
+                "city": "Paris"
+            },
+            "source": {
+                "lat": 48.8566,
+                "lng": 2.3522,
+                "city": "Paris",
+                "country": "France"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Early Check-in",
+                "content": "Hi! Our flight arrives at 6am, is it possible to check in early or store our luggage?",
+                "type": "check_in",
+                "answer": "Bonjour Baptiste! While our official check-in time is 2 PM, you're welcome to store your luggage with us when you arrive at 6 AM. I'll make sure the staff is ready to welcome you and store your bags securely. If the villa is ready earlier, we'll prioritize getting you checked in as soon as possible. In the meantime, you can relax in our lounge area or explore the nearby cafes - I'd be happy to recommend some!"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#4CAF50",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_002",
+            "timestamp": "2024-01-20T10:31:00Z",
+            "sender": {
+                "name": "Emma",
+                "city": "New York"
+            },
+            "source": {
+                "lat": 40.7128,
+                "lng": -74.0060,
+                "city": "New York",
+                "country": "USA"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Transportation",
+                "content": "What's the best way to get to the villa from Ngurah Rai Airport? Do you offer airport pickup?",
+                "type": "transport",
+                "answer": "Hi Emma! Yes, we do offer airport pickup service, and I'd highly recommend it for a smooth arrival experience in Bali. I'll arrange a comfortable car with our trusted driver to meet you at the arrival hall. The journey from Ngurah Rai Airport to the villa takes about 45 minutes. Could you please share your flight details so I can arrange the pickup? The driver will be holding a sign with your name for easy identification."
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#2196F3",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_003",
+            "timestamp": "2024-01-20T10:32:00Z",
+            "sender": {
+                "name": "Oliver",
+                "city": "London"
+            },
+            "source": {
+                "lat": 51.5074,
+                "lng": -0.1278,
+                "city": "London",
+                "country": "UK"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "WiFi",
+                "content": "How reliable is the WiFi? I need to join some work calls during my stay.",
+                "type": "amenities",
+                "answer": "Hello Oliver! You'll be pleased to know that we have high-speed fiber internet throughout the villa, perfect for work calls. Our WiFi speed is 100Mbps up/down, and we have backup internet in case of any issues. The villa also has a dedicated workspace with good lighting and a comfortable chair. I'll make sure to provide you with the WiFi details upon arrival, and our staff is always available to help with any connectivity needs."
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#FFC107",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_004",
+            "timestamp": "2024-01-20T10:33:00Z",
+            "sender": {
+                "name": "Sophia",
+                "city": "Nairobi"
+            },
+            "source": {
+                "lat": -1.2921,
+                "lng": 36.8219,
+                "city": "Nairobi",
+                "country": "Kenya"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Local Food",
+                "content": "Can you recommend some good local warungs nearby? We love authentic Indonesian food!",
+                "type": "local_tips",
+                "answer": "Hi Sophia! I'm excited to share some authentic local warungs with a fellow food enthusiast! Within walking distance, I highly recommend Warung Made for their amazing Nasi Goreng, and Warung Babi Guling Pak Malen for traditional Balinese pork dishes. Both are about 5-10 minutes walk from the villa. For the best local experience, try visiting between 11 AM-1 PM when they're freshly prepared. Would you like me to make any reservations for you?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#FF5722",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_005",
+            "timestamp": "2024-01-20T10:34:00Z",
+            "sender": {
+                "name": "Isabella",
+                "city": "Mexico City"
+            },
+            "source": {
+                "lat": 19.4326,
+                "lng": -99.1332,
+                "city": "Mexico City",
+                "country": "Mexico"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Scooter Rental",
+                "content": "Is it possible to rent scooters nearby? We'd like to explore the area independently.",
+                "type": "transport",
+                "answer": "Hola Isabella! Yes, we can arrange scooter rentals right at the villa for your convenience. Our trusted rental partner provides well-maintained scooters with insurance, and they can deliver them directly to you. The daily rate is around 70,000 IDR (about $5 USD). Would you like me to arrange this for you? I can also provide a map of recommended scenic routes around the area!"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#9C27B0",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_006",
+            "timestamp": "2024-01-20T10:35:00Z",
+            "sender": {
+                "name": "Lucas",
+                "city": "Singapore"
+            },
+            "source": {
+                "lat": 1.3521,
+                "lng": 103.8198,
+                "city": "Singapore",
+                "country": "Singapore"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Pool Privacy",
+                "content": "How private is the pool area? Are there other villas overlooking it?",
+                "type": "amenities",
+                "answer": "Hi Lucas! You'll be happy to know that our pool area is completely private, surrounded by lush tropical gardens and traditional Balinese walls. None of the neighboring villas have a view of the pool area, so you can enjoy complete privacy during your swim. The pool area also has comfortable loungers and a covered gazebo for shade."
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#3F51B5",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_007",
+            "timestamp": "2024-01-20T10:36:00Z",
+            "sender": {
+                "name": "Mia",
+                "city": "Berlin"
+            },
+            "source": {
+                "lat": 52.5200,
+                "lng": 13.4050,
+                "city": "Berlin",
+                "country": "Germany"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Beach Distance",
+                "content": "How far is the nearest beach? Is it walking distance or do we need transport?",
+                "type": "location",
+                "answer": "Hello Mia! The nearest beach is Batu Belig Beach, which is about a 15-minute walk from the villa. For other popular beaches like Seminyak Beach or Double Six, it's a short 5-minute drive. We can arrange a driver for you, or if you prefer walking, I can show you the scenic shortcut through the local neighborhood. Would you like me to mark these beaches on a map for you?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#795548",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_008",
+            "timestamp": "2024-01-20T10:37:00Z",
+            "sender": {
+                "name": "Liam",
+                "city": "Shanghai"
+            },
+            "source": {
+                "lat": 31.2304,
+                "lng": 121.4737,
+                "city": "Shanghai",
+                "country": "China"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Late Checkout",
+                "content": "Our flight is at 11pm, would it be possible to have a late checkout?",
+                "type": "checkout",
+                "answer": "Hello Liam! While our standard checkout time is 12 PM, I understand your need for a later checkout given your evening flight. I can offer you an extended stay until 4 PM at no extra charge. If you need to stay even later, we have a comfortable lounge where you can store your luggage and freshen up before your flight. Would either of these options work for you?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#009688",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_009",
+            "timestamp": "2024-01-20T10:38:00Z",
+            "sender": {
+                "name": "Ava",
+                "city": "Oslo"
+            },
+            "source": {
+                "lat": 59.9139,
+                "lng": 10.7522,
+                "city": "Oslo",
+                "country": "Norway"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Cooking",
+                "content": "Is there a fully equipped kitchen? We love cooking and want to try local ingredients!",
+                "type": "amenities",
+                "answer": "Hi Ava! Yes, we have a fully equipped modern kitchen perfect for cooking enthusiasts! It includes a gas stove, oven, microwave, blender, rice cooker, and all necessary cookware and utensils. There's a great local market just 10 minutes away where you can find fresh ingredients every morning. I'd be happy to arrange a local cooking class or recommend the best spots to buy authentic Balinese spices!"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#E91E63",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_010",
+            "timestamp": "2024-01-20T10:39:00Z",
+            "sender": {
+                "name": "Noah",
+                "city": "Buenos Aires"
+            },
+            "source": {
+                "lat": -34.6037,
+                "lng": -58.3816,
+                "city": "Buenos Aires",
+                "country": "Argentina"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Activities",
+                "content": "Can you help arrange surf lessons or recommend good surf spots near the villa?",
+                "type": "activities",
+                "answer": "Hi Noah! Absolutely! We partner with a great surf school at nearby Batu Belig Beach, perfect for all skill levels. The morning sessions are best for beginners, while afternoon waves are better for experienced surfers. The instructors speak English and provide all equipment. Would you like me to book a lesson for you? I can also share information about other surf spots like Berawa and Old Man's!"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#607D8B",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_011",
+            "timestamp": "2024-01-20T10:40:00Z",
+            "sender": {
+                "name": "Yuki",
+                "city": "Tokyo"
+            },
+            "source": {
+                "lat": 35.6762,
+                "lng": 139.6503,
+                "city": "Tokyo",
+                "country": "Japan"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Quiet Hours",
+                "content": "What are the quiet hours for the villa? We're light sleepers and prefer a peaceful environment.",
+                "type": "house_rules",
+                "answer": "Hi Yuki! Our villa maintains quiet hours from 10 PM to 8 AM to ensure all guests have a peaceful rest. Your room is in the quietest section of the villa, away from the common areas. We also provide eye masks and earplugs if you'd like them. The walls are well-insulated, and our gardens create a natural sound barrier. Would you like me to arrange for extra sound-proofing measures in your room?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#FF9800",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_012",
+            "timestamp": "2024-01-20T10:41:00Z",
+            "sender": {
+                "name": "Maria",
+                "city": "Madrid"
+            },
+            "source": {
+                "lat": 40.4168,
+                "lng": -3.7038,
+                "city": "Madrid",
+                "country": "Spain"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Baby Equipment",
+                "content": "Do you provide a baby cot and high chair? We're traveling with our 1-year-old.",
+                "type": "amenities",
+                "answer": "¡Hola Maria! Yes, we provide both a baby cot and a high chair free of charge. The cot comes with clean bedding, and we can also provide baby-proofing equipment for the room. We also have a baby monitor, changing mat, and can arrange for baby-friendly toiletries. Would you like me to prepare any specific items for your little one's arrival?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#9C27B0",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_013",
+            "timestamp": "2024-01-20T10:42:00Z",
+            "sender": {
+                "name": "Alexander",
+                "city": "Moscow"
+            },
+            "source": {
+                "lat": 55.7558,
+                "lng": 37.6173,
+                "city": "Moscow",
+                "country": "Russia"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Security",
+                "content": "What security measures are in place at the villa? Is there a safe for valuables?",
+                "type": "safety",
+                "answer": "Hello Alexander! We take security very seriously at our villa. We have 24/7 security staff, CCTV cameras in common areas, and secure key-card access. Each room has a digital safe large enough for laptops and valuables. The villa is within a gated community with additional security patrols. Would you like me to explain our emergency procedures as well?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#607D8B",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_014",
+            "timestamp": "2024-01-20T10:43:00Z",
+            "sender": {
+                "name": "Sarah",
+                "city": "Sydney"
+            },
+            "source": {
+                "lat": -33.8688,
+                "lng": 151.2093,
+                "city": "Sydney",
+                "country": "Australia"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Yoga Classes",
+                "content": "Are there any yoga studios nearby? Or do you offer private classes at the villa?",
+                "type": "activities",
+                "answer": "Hi Sarah! We can arrange private yoga sessions right in the villa's garden - it's a beautiful setting for practice! We work with several experienced instructors who can accommodate any level. There's also a popular yoga studio just 5 minutes away that offers daily classes. Would you like me to book a private session or share the studio's schedule with you?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#FF4081",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_015",
+            "timestamp": "2024-01-20T10:44:00Z",
+            "sender": {
+                "name": "Hans",
+                "city": "Amsterdam"
+            },
+            "source": {
+                "lat": 52.3676,
+                "lng": 4.9041,
+                "city": "Amsterdam",
+                "country": "Netherlands"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Vegetarian Food",
+                "content": "We're vegetarians. Are there good vegetarian restaurants in the area?",
+                "type": "local_tips",
+                "answer": "Hi Hans! You'll be pleased to know we have several excellent vegetarian options nearby! I highly recommend 'Earth Cafe' which is just a 5-minute walk away - they have amazing plant-based Indonesian dishes. 'Zula Vegetarian Paradise' is also nearby, offering a mix of local and international vegetarian cuisine. I can mark these on a map for you and make reservations if you'd like. Also, most local warungs are happy to prepare vegetarian versions of traditional dishes!"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#00BCD4",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_016",
+            "timestamp": "2024-01-20T10:45:00Z",
+            "sender": {
+                "name": "Chen",
+                "city": "Hong Kong"
+            },
+            "source": {
+                "lat": 22.3193,
+                "lng": 114.1694,
+                "city": "Hong Kong",
+                "country": "China"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Power Adapters",
+                "content": "What type of power outlets do you have? Should we bring adapters?",
+                "type": "amenities",
+                "answer": "Hi Chen! Our villa uses Type C and F power outlets (230V, 50Hz), which are two-pin round sockets. We provide universal adapters in each room, but if you need additional ones, we have extras available. All bedrooms also have multiple USB charging ports by the bedside. Would you like me to prepare any specific type of adapter for your devices?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#FF5722",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_017",
+            "timestamp": "2024-01-20T10:46:00Z",
+            "sender": {
+                "name": "Aisha",
+                "city": "Dubai"
+            },
+            "source": {
+                "lat": 25.2048,
+                "lng": 55.2708,
+                "city": "Dubai",
+                "country": "UAE"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Prayer Room",
+                "content": "Is there a quiet space suitable for prayer? And which direction is the Qibla?",
+                "type": "amenities",
+                "answer": "Salam Aisha! Yes, we have a dedicated quiet room that's perfect for prayer, complete with prayer mats and a Qibla direction marker. The room is available 24/7 and offers complete privacy. We've also marked the Qibla direction in all bedrooms, and can provide additional prayer mats if needed. Would you like me to show you the prayer room when you arrive?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#3F51B5",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_018",
+            "timestamp": "2024-01-20T10:47:00Z",
+            "sender": {
+                "name": "Paulo",
+                "city": "São Paulo"
+            },
+            "source": {
+                "lat": -23.5505,
+                "lng": -46.6333,
+                "city": "São Paulo",
+                "country": "Brazil"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Language",
+                "content": "Do your staff speak English? We don't speak Indonesian.",
+                "type": "communication",
+                "answer": "Olá Paulo! Yes, all our staff members speak English fluently, so you won't have any communication problems during your stay. Our villa manager is also fluent in Portuguese! We also provide a handbook with common Indonesian phrases if you'd like to learn a few local words. Would you like me to prepare the handbook in Portuguese for you?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#009688",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_019",
+            "timestamp": "2024-01-20T10:48:00Z",
+            "sender": {
+                "name": "Lena",
+                "city": "Stockholm"
+            },
+            "source": {
+                "lat": 59.3293,
+                "lng": 18.0686,
+                "city": "Stockholm",
+                "country": "Sweden"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Air Conditioning",
+                "content": "Is there AC in all bedrooms? We're not used to tropical weather.",
+                "type": "amenities",
+                "answer": "Hej Lena! Yes, all bedrooms have powerful, individually controlled air conditioning units. The living areas are also air-conditioned, and we have ceiling fans throughout the villa for additional comfort. You can set your preferred temperature, and we also provide light blankets for your comfort. Would you like me to set a specific temperature in your room before your arrival?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#795548",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_020",
+            "timestamp": "2024-01-20T10:49:00Z",
+            "sender": {
+                "name": "Raj",
+                "city": "Mumbai"
+            },
+            "source": {
+                "lat": 19.0760,
+                "lng": 72.8777,
+                "city": "Mumbai",
+                "country": "India"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Spicy Food",
+                "content": "We love spicy food! Which local restaurants serve the most authentic spicy dishes?",
+                "type": "local_tips",
+                "answer": "Hi Raj! You're in for a treat! I can recommend several places that serve authentically spicy Balinese dishes. 'Warung Mertha Sari' is famous for their extra spicy sambal matah, and 'Warung Babi Guling Pak Malen' serves traditional spicy pork dishes. For the ultimate heat, try 'Nasi Ayam Ibu Oki' - they're known for their fiery chicken dishes. Would you like me to arrange a local food tour focusing on spicy specialties?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#E91E63",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_021",
+            "timestamp": "2024-01-20T10:50:00Z",
+            "sender": {
+                "name": "Sofia",
+                "city": "Vancouver"
+            },
+            "source": {
+                "lat": 49.2827,
+                "lng": -123.1207,
+                "city": "Vancouver",
+                "country": "Canada"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Drinking Water",
+                "content": "Is tap water safe to drink? Or should we buy bottled water?",
+                "type": "amenities",
+                "answer": "Hi Sofia! For your safety, we recommend using bottled water for drinking. We provide complimentary bottled water daily in all rooms, and our kitchen has a water dispenser for refills. The tap water is safe for brushing teeth and showering. Would you like me to arrange for extra bottled water to be available in your room upon arrival?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#673AB7",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_022",
+            "timestamp": "2024-01-20T10:51:00Z",
+            "sender": {
+                "name": "Klaus",
+                "city": "Vienna"
+            },
+            "source": {
+                "lat": 48.2082,
+                "lng": 16.3738,
+                "city": "Vienna",
+                "country": "Austria"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Music Equipment",
+                "content": "Is there a Bluetooth speaker or sound system? We enjoy music by the pool.",
+                "type": "amenities",
+                "answer": "Hallo Klaus! Yes, we have a high-quality Bluetooth sound system by the pool area, and portable speakers available for use in your room. The pool area speakers are weather-resistant and provide excellent sound quality. Just remember to keep the volume moderate during quiet hours (10 PM - 8 AM). Would you like me to prepare a speaker for your room as well?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#8BC34A",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_023",
+            "timestamp": "2024-01-20T10:52:00Z",
+            "sender": {
+                "name": "Fatima",
+                "city": "Marrakech"
+            },
+            "source": {
+                "lat": 31.6295,
+                "lng": -7.9811,
+                "city": "Marrakech",
+                "country": "Morocco"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Local Markets",
+                "content": "Which days are the local markets open? We'd love to buy some traditional crafts.",
+                "type": "local_tips",
+                "answer": "Marhaba Fatima! The traditional art market in Ubud is open daily from 9 AM to 6 PM, and there's a wonderful night market every Friday evening near the villa. For the best traditional crafts, I recommend visiting the morning market in Sukawati (30 minutes away). Would you like me to arrange transportation to any of these markets? I can also recommend specific vendors for authentic Balinese crafts!"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#FF4081",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_024",
+            "timestamp": "2024-01-20T10:53:00Z",
+            "sender": {
+                "name": "Lars",
+                "city": "Copenhagen"
+            },
+            "source": {
+                "lat": 55.6761,
+                "lng": 12.5683,
+                "city": "Copenhagen",
+                "country": "Denmark"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Bicycle Rental",
+                "content": "Can we rent bicycles nearby? We enjoy exploring on bikes.",
+                "type": "activities",
+                "answer": "Hej Lars! Yes, we can arrange bicycle rentals directly at the villa. We work with a reliable rental service that provides well-maintained bikes, including helmets and locks. They have both city bikes and mountain bikes available. I can also provide you with maps of scenic cycling routes around the area. Would you like me to arrange the rentals for your arrival?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#009688",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_025",
+            "timestamp": "2024-01-20T10:54:00Z",
+            "sender": {
+                "name": "Nina",
+                "city": "Zagreb"
+            },
+            "source": {
+                "lat": 45.8150,
+                "lng": 15.9819,
+                "city": "Zagreb",
+                "country": "Croatia"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Laundry",
+                "content": "Is there a washing machine available? Or laundry service nearby?",
+                "type": "amenities",
+                "answer": "Hi Nina! We offer both options - there's a washing machine available for your personal use in the utility room, complete with detergent and dryer. We also have a same-day laundry service if you prefer, with pickup and delivery included. The service is very affordable at around 15,000 IDR per kg. Would you like me to explain the laundry service prices in detail?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#FF9800",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_026",
+            "timestamp": "2024-01-20T10:55:00Z",
+            "sender": {
+                "name": "Miguel",
+                "city": "Lima"
+            },
+            "source": {
+                "lat": -12.0464,
+                "lng": -77.0428,
+                "city": "Lima",
+                "country": "Peru"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Photography",
+                "content": "Are there any Instagram-worthy spots nearby? We love photography!",
+                "type": "local_tips",
+                "answer": "¡Hola Miguel! You'll find plenty of amazing photo spots around here! The villa itself has several Instagram-worthy locations, including our infinity pool at sunset and the traditional Balinese garden gate. Nearby, there's a beautiful rice terrace (10-minute walk) and a scenic beach sunset point (15-minute walk). I can mark all these spots on a map and even recommend the best times for lighting!"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#E91E63",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_027",
+            "timestamp": "2024-01-20T10:56:00Z",
+            "sender": {
+                "name": "Anita",
+                "city": "Cape Town"
+            },
+            "source": {
+                "lat": -33.9249,
+                "lng": 18.4241,
+                "city": "Cape Town",
+                "country": "South Africa"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Mosquitoes",
+                "content": "Should we bring mosquito repellent? Are there mosquito nets in the bedrooms?",
+                "type": "amenities",
+                "answer": "Hi Anita! We provide mosquito protection in all rooms - each bed has a mosquito net, and we supply natural repellent in every bathroom. We also do regular garden spraying and have mosquito repellent devices installed. The villa is designed to minimize mosquitoes with good air circulation. Would you like me to prepare additional repellent or any specific type of protection for your room?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#4CAF50",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_028",
+            "timestamp": "2024-01-20T10:57:00Z",
+            "sender": {
+                "name": "David",
+                "city": "Tel Aviv"
+            },
+            "source": {
+                "lat": 32.0853,
+                "lng": 34.7818,
+                "city": "Tel Aviv",
+                "country": "Israel"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Work Space",
+                "content": "Is there a desk or work area? I might need to do some remote work.",
+                "type": "amenities",
+                "answer": "Shalom David! Yes, we have a dedicated work space in each room with a comfortable desk, ergonomic chair, and good lighting. The villa also has a separate office room with a larger desk and printer if you need it. All areas have strong WiFi coverage. Would you like me to set up the office room with any specific equipment for your work needs?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#3F51B5",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_029",
+            "timestamp": "2024-01-20T10:58:00Z",
+            "sender": {
+                "name": "Mei",
+                "city": "Seoul"
+            },
+            "source": {
+                "lat": 37.5665,
+                "lng": 126.9780,
+                "city": "Seoul",
+                "country": "South Korea"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Beauty Services",
+                "content": "Are there any good spas or salons nearby for massages and treatments?",
+                "type": "local_tips",
+                "answer": "안녕하세요 Mei! We have several excellent spas nearby, and we can also arrange for in-villa massage and beauty treatments. 'Spring Spa' (5-minute drive) is very popular for their traditional treatments, and 'Therapy' (10-minute walk) specializes in Korean-style skincare treatments. Would you like me to book any specific treatments for you?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#9C27B0",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_030",
+            "timestamp": "2024-01-20T10:59:00Z",
+            "sender": {
+                "name": "Carlos",
+                "city": "Lima"
+            },
+            "source": {
+                "lat": -12.0464,
+                "lng": -77.0428,
+                "city": "Lima",
+                "country": "Peru"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Room Service",
+                "content": "Do you offer in-villa dining or can recommend good food delivery services?",
+                "type": "services",
+                "answer": "¡Hola Carlos! Yes, we offer in-villa dining with our private chef who can prepare both local and international dishes. We also have partnerships with several quality restaurants that deliver to the villa. Popular food delivery apps like Gojek and Grab are also available. Would you like to see our in-villa dining menu or restaurant delivery recommendations?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#FF5722",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_031",
+            "timestamp": "2024-01-20T11:00:00Z",
+            "sender": {
+                "name": "Elena",
+                "city": "Athens"
+            },
+            "source": {
+                "lat": 37.9838,
+                "lng": 23.7275,
+                "city": "Athens",
+                "country": "Greece"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Gym Access",
+                "content": "Is there a gym in the villa or fitness center nearby? We like to stay active.",
+                "type": "amenities",
+                "answer": "Γεια σου Elena! While we don't have a gym in the villa, we have a partnership with 'Fitness Hub' just a 3-minute walk away - they offer day passes for our guests at a special rate. We also have yoga mats and basic exercise equipment (dumbbells, resistance bands) available in the villa. Many guests enjoy jogging along the beach in the morning. Would you like me to arrange gym passes for your stay?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#2196F3",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_032",
+            "timestamp": "2024-01-20T11:01:00Z",
+            "sender": {
+                "name": "Ahmed",
+                "city": "Cairo"
+            },
+            "source": {
+                "lat": 30.0444,
+                "lng": 31.2357,
+                "city": "Cairo",
+                "country": "Egypt"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Weather",
+                "content": "What's the typical weather like in March? Should we pack rain gear?",
+                "type": "planning",
+                "answer": "مرحباً Ahmed! March in Bali is generally warm and slightly humid, with temperatures around 27-31°C (80-88°F). While it's the end of the rainy season, showers are usually brief and followed by sunshine. We provide umbrellas in the villa, but it's good to pack a light rain jacket and quick-dry clothing. Would you like me to share a detailed weather forecast closer to your arrival date?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#FF9800",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_033",
+            "timestamp": "2024-01-20T11:02:00Z",
+            "sender": {
+                "name": "Lucia",
+                "city": "Lisbon"
+            },
+            "source": {
+                "lat": 38.7223,
+                "lng": -9.1393,
+                "city": "Lisbon",
+                "country": "Portugal"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Sunset Views",
+                "content": "Which nearby beaches have the best sunset views? We love photography.",
+                "type": "local_tips",
+                "answer": "Olá Lucia! You're in for a treat! The best sunset spot is Batu Belig Beach, just 15 minutes walking distance, where you can capture beautiful shots with traditional fishing boats. Echo Beach (10 minutes by car) is also amazing for sunset photos, especially from the clifftop bars. I can arrange transportation and recommend the best times to visit each location. Would you like a map of the top photography spots?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#E91E63",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_034",
+            "timestamp": "2024-01-20T11:03:00Z",
+            "sender": {
+                "name": "Thomas",
+                "city": "Helsinki"
+            },
+            "source": {
+                "lat": 60.1699,
+                "lng": 24.9384,
+                "city": "Helsinki",
+                "country": "Finland"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "BBQ",
+                "content": "Is there a BBQ grill? We'd love to cook some local seafood.",
+                "type": "amenities",
+                "answer": "Hei Thomas! Yes, we have a great BBQ setup in the garden area! We can provide a clean grill, tools, and even help you source fresh seafood from the local fish market. Our staff can assist with setup and cleaning. We also have a spice collection for traditional Balinese BBQ marinades. Would you like me to arrange for fresh seafood delivery on a specific day?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#4CAF50",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_035",
+            "timestamp": "2024-01-20T11:04:00Z",
+            "sender": {
+                "name": "Ana",
+                "city": "Santiago"
+            },
+            "source": {
+                "lat": -33.4489,
+                "lng": -70.6693,
+                "city": "Santiago",
+                "country": "Chile"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Medical",
+                "content": "Where's the nearest medical clinic? Just in case we need it.",
+                "type": "safety",
+                "answer": "¡Hola Ana! The nearest medical clinic is BIMC Hospital, a 10-minute drive away. They're open 24/7 and have English-speaking staff. We also have a first-aid kit in the villa and can arrange for a doctor to visit if needed. For emergencies, we have direct contact with ambulance services. Would you like me to provide you with all emergency contact numbers?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#9C27B0",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_036",
+            "timestamp": "2024-01-20T11:05:00Z",
+            "sender": {
+                "name": "Viktor",
+                "city": "Budapest"
+            },
+            "source": {
+                "lat": 47.4979,
+                "lng": 19.0402,
+                "city": "Budapest",
+                "country": "Hungary"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Local SIM",
+                "content": "Where can we buy local SIM cards? We need mobile data during our stay.",
+                "type": "services",
+                "answer": "Szia Viktor! You can buy local SIM cards right at the airport, but we can also arrange to have them ready at the villa for your arrival. We recommend Telkomsel or XL for the best coverage in our area. The packages include data and local calls, usually around 100,000 IDR for 10GB. Would you like me to prepare SIM cards for your arrival?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#FF5722",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_037",
+            "timestamp": "2024-01-20T11:06:00Z",
+            "sender": {
+                "name": "Zara",
+                "city": "Kuala Lumpur"
+            },
+            "source": {
+                "lat": 3.1390,
+                "lng": 101.6869,
+                "city": "Kuala Lumpur",
+                "country": "Malaysia"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Halal Food",
+                "content": "Are there halal restaurants nearby? We need halal dining options.",
+                "type": "local_tips",
+                "answer": "Hi Zara! Yes, there are several excellent halal restaurants nearby! 'Warung Wardani' (5-minute walk) is our most recommended halal-certified restaurant, serving authentic Indonesian cuisine. 'Nasi Pedas Ibu Andika' is also popular for local halal food. All meat served in our in-villa dining menu can be arranged from halal suppliers. Would you like me to prepare a list of halal restaurants in the area?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#3F51B5",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_038",
+            "timestamp": "2024-01-20T11:07:00Z",
+            "sender": {
+                "name": "Pierre",
+                "city": "Geneva"
+            },
+            "source": {
+                "lat": 46.2044,
+                "lng": 6.1432,
+                "city": "Geneva",
+                "country": "Switzerland"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Hiking",
+                "content": "Are there any good hiking trails nearby? We love morning walks.",
+                "type": "activities",
+                "answer": "Bonjour Pierre! While we're in a beach area, there are several nice walking trails nearby. The Campuhan Ridge Walk (15 minutes by car) is beautiful for morning hikes. We also have a lovely beach walking trail, and the nearby rice fields offer peaceful morning walks. I can provide maps and arrange transportation to hiking spots. Would you like a guide for any of these trails?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#009688",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_039",
+            "timestamp": "2024-01-20T11:08:00Z",
+            "sender": {
+                "name": "Diana",
+                "city": "Bucharest"
+            },
+            "source": {
+                "lat": 44.4268,
+                "lng": 26.1025,
+                "city": "Bucharest",
+                "country": "Romania"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Parking",
+                "content": "Is there secure parking if we rent a car? We plan to explore the island.",
+                "type": "amenities",
+                "answer": "Bună Diana! Yes, we have secure, covered parking within the villa compound, monitored by 24/7 security. There's plenty of space for a rental car, and our staff can help with parking. We can also recommend reliable car rental services and provide you with a detailed map of the island. Would you like help arranging a car rental?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#795548",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_040",
+            "timestamp": "2024-01-20T11:09:00Z",
+            "sender": {
+                "name": "James",
+                "city": "Dublin"
+            },
+            "source": {
+                "lat": 53.3498,
+                "lng": -6.2603,
+                "city": "Dublin",
+                "country": "Ireland"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Nightlife",
+                "content": "How far are the nearest bars and nightlife spots? We enjoy evening entertainment.",
+                "type": "local_tips",
+                "answer": "Hi James! The vibrant Seminyak area is just a 10-minute drive away, with popular spots like Potato Head Beach Club and La Favela. Closer to the villa, there are several beach bars within walking distance that offer great sunset drinks and live music. We can arrange reliable transportation for your nights out. Would you like recommendations for specific types of venues?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#673AB7",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_041",
+            "timestamp": "2024-01-20T11:10:00Z",
+            "sender": {
+                "name": "Akiko",
+                "city": "Osaka"
+            },
+            "source": {
+                "lat": 34.6937,
+                "lng": 135.5023,
+                "city": "Osaka",
+                "country": "Japan"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Coffee",
+                "content": "Are there good coffee shops nearby? We need our morning coffee!",
+                "type": "local_tips",
+                "answer": "おはよう Akiko! You'll be happy to know we have several excellent coffee spots nearby! 'Revolver Espresso' is just a 5-minute walk away - they serve amazing specialty coffee and Japanese-style breakfast. We also have a quality coffee machine in your room with locally sourced Balinese beans. Would you like me to prepare a list of our favorite local coffee shops?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#8BC34A",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_042",
+            "timestamp": "2024-01-20T11:11:00Z",
+            "sender": {
+                "name": "Marco",
+                "city": "Milan"
+            },
+            "source": {
+                "lat": 45.4642,
+                "lng": 9.1900,
+                "city": "Milan",
+                "country": "Italy"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Shopping",
+                "content": "Where's the best place to shop for local fashion and designer items?",
+                "type": "local_tips",
+                "answer": "Ciao Marco! For designer boutiques, I recommend Seminyak's 'Eat Street' area (10 minutes by car), which has a great mix of local and international designers. For authentic Balinese fashion, visit the Seminyak Village or the boutiques along Jalan Laksmana. I can arrange transportation and recommend specific shops based on your style preferences. Would you like a curated shopping guide?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#FF4081",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_043",
+            "timestamp": "2024-01-20T11:12:00Z",
+            "sender": {
+                "name": "Olivia",
+                "city": "Wellington"
+            },
+            "source": {
+                "lat": -41.2866,
+                "lng": 174.7756,
+                "city": "Wellington",
+                "country": "New Zealand"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Pets",
+                "content": "Are there any restrictions on having visitors with pets at the villa?",
+                "type": "house_rules",
+                "answer": "Hi Olivia! While we love animals, we have a no-pets policy for visitors to maintain the comfort of all our guests. However, I can recommend some lovely pet-friendly cafes nearby if you're meeting friends with pets. There's also a reputable pet hotel nearby if you need pet-sitting services. Would you like information about any of these alternatives?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#607D8B",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_044",
+            "timestamp": "2024-01-20T11:13:00Z",
+            "sender": {
+                "name": "Ali",
+                "city": "Istanbul"
+            },
+            "source": {
+                "lat": 41.0082,
+                "lng": 28.9784,
+                "city": "Istanbul",
+                "country": "Turkey"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Currency",
+                "content": "Where's the best place to exchange money? Are there ATMs nearby?",
+                "type": "services",
+                "answer": "Merhaba Ali! There are several ATMs within walking distance of the villa, and we recommend using the ones at CIMB or BCA banks for the best rates. For currency exchange, 'BMC Money Changer' (5-minute walk) offers excellent rates and is very reliable. We can also exchange small amounts at the villa if needed. Would you like me to mark these locations on a map for you?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#FF9800",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_045",
+            "timestamp": "2024-01-20T11:14:00Z",
+            "sender": {
+                "name": "Eva",
+                "city": "Prague"
+            },
+            "source": {
+                "lat": 50.0755,
+                "lng": 14.4378,
+                "city": "Prague",
+                "country": "Czech Republic"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Photography",
+                "content": "Can you recommend a local photographer for a family photoshoot?",
+                "type": "services",
+                "answer": "Ahoj Eva! Yes, we work with several professional photographers who specialize in family portraits. Our most recommended photographer, Made, is known for capturing beautiful candid moments and knows all the best spots around the villa and nearby beaches. He offers both sunrise and sunset sessions. Would you like to see his portfolio and discuss package options?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#9C27B0",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_046",
+            "timestamp": "2024-01-20T11:15:00Z",
+            "sender": {
+                "name": "Leo",
+                "city": "Brussels"
+            },
+            "source": {
+                "lat": 50.8503,
+                "lng": 4.3517,
+                "city": "Brussels",
+                "country": "Belgium"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Cooking Class",
+                "content": "Can you recommend any good local cooking classes? We'd love to learn Balinese cuisine.",
+                "type": "activities",
+                "answer": "Salut Leo! We can arrange a private cooking class right here in the villa with our chef, who specializes in traditional Balinese cuisine. The class includes a morning market visit to select fresh ingredients. Alternatively, 'Paon Bali Cooking Class' (15 minutes away) offers excellent group classes. Would you like me to arrange either option for you?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#4CAF50",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_047",
+            "timestamp": "2024-01-20T11:16:00Z",
+            "sender": {
+                "name": "Nina",
+                "city": "Oslo"
+            },
+            "source": {
+                "lat": 59.9139,
+                "lng": 10.7522,
+                "city": "Oslo",
+                "country": "Norway"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Baby Sitter",
+                "content": "Do you know any reliable babysitting services? We might need one for a date night.",
+                "type": "services",
+                "answer": "Hei Nina! Yes, we work with a professional babysitting service that all our staff personally trust. Our recommended sitter, Ibu Wayan, has over 10 years of experience and speaks English fluently. She's available for evening sessions and can engage children with local games and stories. Would you like to meet her before arranging a session?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#FF5722",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_048",
+            "timestamp": "2024-01-20T11:17:00Z",
+            "sender": {
+                "name": "Rafael",
+                "city": "Barcelona"
+            },
+            "source": {
+                "lat": 41.3851,
+                "lng": 2.1734,
+                "city": "Barcelona",
+                "country": "Spain"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Snorkeling",
+                "content": "What are the best spots for snorkeling? Do you provide snorkeling gear?",
+                "type": "activities",
+                "answer": "¡Hola Rafael! Yes, we provide complimentary snorkeling gear for our guests! The best nearby spot is Manta Point (20 minutes by boat), where you can often see manta rays. For beginners, I recommend the calm waters of Nusa Dua (30 minutes by car). We can arrange transportation and guided tours to either location. Would you like me to book a snorkeling trip for you?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#3F51B5",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_049",
+            "timestamp": "2024-01-20T11:18:00Z",
+            "sender": {
+                "name": "Sophia",
+                "city": "Warsaw"
+            },
+            "source": {
+                "lat": 52.2297,
+                "lng": 21.0122,
+                "city": "Warsaw",
+                "country": "Poland"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Temple Visits",
+                "content": "Which temples do you recommend visiting? Do we need to bring sarongs?",
+                "type": "activities",
+                "answer": "Cześć Sophia! The must-visit temples nearby are Tanah Lot (perfect for sunset) and Uluwatu Temple. Don't worry about sarongs - they're provided at all temples, but we also have complimentary ones at the villa you can use. I recommend visiting early morning or late afternoon to avoid crowds. Would you like me to arrange a guided temple tour?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#009688",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_050",
+            "timestamp": "2024-01-20T11:19:00Z",
+            "sender": {
+                "name": "Jack",
+                "city": "Melbourne"
+            },
+            "source": {
+                "lat": -37.8136,
+                "lng": 144.9631,
+                "city": "Melbourne",
+                "country": "Australia"
+            },
+            "destination": {
+                "lat": -8.3405,
+                "lng": 115.0920,
+                "city": "Bali",
+                "country": "Indonesia"
+            },
+            "message": {
+                "title": "Celebrations",
+                "content": "It's our anniversary during our stay. Can you help arrange something special?",
+                "type": "services",
+                "answer": "G'day Jack! Congratulations on your anniversary! I'd love to help make it special. We can arrange a private candlelit dinner in our garden pavilion, complete with a personal chef and romantic decorations. Other options include a couples spa treatment or a sunset cruise. Would you like me to share our celebration packages with you?"
+            },
+            "animation": {
+                "duration": 2000,
+                "color": "#E91E63",
+                "pulseSize": 2
+            }
+        },
+        {
+            "id": "msg_ml_001",
+            "timestamp": "2024-01-20T14:15:00Z",
+            "sender": {
+                "name": "Yuki",
+                "city": "Tokyo"
+            },
+            "source": {
+                "lat": 35.6762,
+                "lng": 139.6503,
+                "city": "Tokyo",
+                "country": "Japan"
+            },
+            "message": {
+                "title": "Wi-Fi について",
+                "content": "こんにちは！Wi-Fiのパスワードを教えていただけますか？また、インターネットの速度は動画通話に十分ですか？",
+                "type": "wifi",
+                "answer": "こんにちは、Yukiさん！はい、ビデオ通話に十分な高速Wi-Fiを完備しています。速度は100Mbpsで、安定した接続を確保するためにバックアップ回線も用意しています。チェックイン時にWi-Fiの詳細をお渡しします。また、通信状態について何か問題がございましたら、スタッフがいつでもサポートさせていただきますのでご安心ください。"
+            },
+            "animation": {
+                "color": "#FF4081",
+                "duration": 2000
+            }
+        },
+        {
+            "id": "msg_ml_002",
+            "timestamp": "2024-01-20T15:30:00Z",
+            "sender": {
+                "name": "Pierre",
+                "city": "Paris"
+            },
+            "source": {
+                "lat": 48.8566,
+                "lng": 2.3522,
+                "city": "Paris",
+                "country": "France"
+            },
+            "message": {
+                "title": "Heure d'arrivée",
+                "content": "Bonjour! Notre vol arrive à 23h. Est-il possible d'avoir un check-in tardif? Merci beaucoup!",
+                "type": "check_in",
+                "answer": "Bonjour Pierre! Bien sûr, nous pouvons organiser un check-in tardif pour votre arrivée à 23h. Je veillerai personnellement à ce qu'un membre de notre équipe soit présent pour vous accueillir et vous installer confortablement. La villa sera préparée et éclairée pour votre arrivée. Souhaitez-vous que nous organisions également un transfert depuis l'aéroport?"
+            },
+            "animation": {
+                "color": "#2196F3",
+                "duration": 2000
+            }
+        },
+        {
+            "id": "msg_ml_003",
+            "timestamp": "2024-01-20T16:45:00Z",
+            "sender": {
+                "name": "Maria",
+                "city": "Barcelona"
+            },
+            "source": {
+                "lat": 41.3851,
+                "lng": 2.1734,
+                "city": "Barcelona",
+                "country": "Spain"
+            },
+            "message": {
+                "title": "Restaurantes cercanos",
+                "content": "¡Hola! ¿Podrías recomendarme algunos restaurantes tradicionales cerca del alojamiento? Nos encantaría probar la comida local.",
+                "type": "food",
+                "answer": "¡Hola Maria! Me alegro de que quieras explorar nuestra gastronomía local. Cerca de la villa hay varios restaurantes tradicionales excelentes. Te recomiendo especialmente el Warung Babi Guling para la cocina balinesa auténtica, está a solo 5 minutos caminando. También tenemos el Warung Made que sirve un delicioso Nasi Goreng, y el Pasar Malam (mercado nocturno) los viernes, donde puedes probar una gran variedad de platos locales. ¿Te gustaría que hiciera alguna reserva?"
+            },
+            "animation": {
+                "color": "#4CAF50",
+                "duration": 2000
+            }
+        },
+        {
+            "id": "msg_ml_004",
+            "timestamp": "2024-01-20T17:20:00Z",
+            "sender": {
+                "name": "Hans",
+                "city": "Berlin"
+            },
+            "source": {
+                "lat": 52.5200,
+                "lng": 13.4050,
+                "city": "Berlin",
+                "country": "Germany"
+            },
+            "message": {
+                "title": "Parkplatz Verfügbarkeit",
+                "content": "Guten Tag! Gibt es einen kostenlosen Parkplatz in der Nähe? Wir kommen mit einem Mietwagen an.",
+                "type": "parking",
+                "answer": "Guten Tag Hans! Ja, wir haben kostenlose Parkplätze direkt in der Villa für unsere Gäste. Ihr Mietwagen kann sicher und bequem auf unserem privaten, überwachten Parkplatz abgestellt werden. Der Parkplatz ist 24/7 zugänglich und wird von unserem Sicherheitspersonal überwacht. Soll ich Ihnen auch Empfehlungen für zuverlässige Autovermietungen geben?"
+            },
+            "animation": {
+                "color": "#FF9800",
+                "duration": 2000
+            }
+        },
+        {
+            "id": "msg_ml_005",
+            "timestamp": "2024-01-20T18:10:00Z",
+            "sender": {
+                "name": "Alessandro",
+                "city": "Rome"
+            },
+            "source": {
+                "lat": 41.9028,
+                "lng": 12.4964,
+                "city": "Rome",
+                "country": "Italy"
+            },
+            "message": {
+                "title": "Servizio lavanderia",
+                "content": "Ciao! C'è una lavanderia nell'edificio? Staremo per due settimane e avremo bisogno di lavare i vestiti.",
+                "type": "laundry",
+                "answer": "Ciao Alessandro! Sì, offriamo un servizio di lavanderia completo nella villa. Il servizio è disponibile tutti i giorni e la biancheria viene normalmente restituita entro 24 ore. Inoltre, c'è anche una lavatrice e un'asciugatrice nell'unità di servizio se preferisci fare il bucato da solo. Il detersivo e l'ammorbidente sono forniti gratuitamente. Vuoi che ti spieghi i prezzi del servizio di lavanderia?"
+            },
+            "animation": {
+                "color": "#9C27B0",
+                "duration": 2000
+            }
+        },
+        {
+            "id": "msg_ml_006",
+            "timestamp": "2024-01-20T19:05:00Z",
+            "sender": {
+                "name": "Olga",
+                "city": "Moscow"
+            },
+            "source": {
+                "lat": 55.7558,
+                "lng": 37.6173,
+                "city": "Moscow",
+                "country": "Russia"
+            },
+            "message": {
+                "title": "Трансфер из аэропорта",
+                "content": "Здравствуйте! Можно ли организовать трансфер из аэропорта? Мы прилетаем поздно вечером.",
+                "type": "transport",
+                "answer": "Здравствуйте, Ольга! Да, конечно, мы можем организовать для вас трансфер из аэропорта. У нас есть комфортабельный автомобиль с опытным водителем, который встретит вас в зале прилета с табличкой с вашим именем. Поездка до виллы занимает около 45 минут. Не могли бы вы предоставить детали вашего рейса, чтобы я могла организовать встречу?"
+            },
+            "animation": {
+                "color": "#E91E63",
+                "duration": 2000
+            }
+        },
+        {
+            "id": "msg_ml_007",
+            "timestamp": "2024-01-20T20:15:00Z",
+            "sender": {
+                "name": "Wei",
+                "city": "Shanghai"
+            },
+            "source": {
+                "lat": 31.2304,
+                "lng": 121.4737,
+                "city": "Shanghai",
+                "country": "China"
+            },
+            "message": {
+                "title": "空调设置",
+                "content": "你好！请问房间里的空调如何调节温度？现在感觉有点热。",
+                "type": "amenities",
+                "answer": "你好，Wei！每个房间都配备了独立的空调控制器，位于入口附近的墙上。使用遥控器上的 '+' 和 '-' 按钮可以调节温度，建议设置在24-26度之间最舒适。如果您需要帮助，我可以请工作人员来为您演示如何使用。另外，我们也提供额外的电扇，如果您需要的话。"
+            },
+            "animation": {
+                "color": "#00BCD4",
+                "duration": 2000
+            }
+        }
+    ]
+} 
